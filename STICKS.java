@@ -27,6 +27,7 @@ public class STICKS
 				System.out.println("HUMAN WILL NOT BE BOILED IN A HOT POT FOR US TO CONSUME");
 			if (sticks == 0 && !turn)
 				System.out.println("HUMAN WILL BE BOILED IN A HOT POT FOR US TO CONSUME");
+			turn != turn;
 		}
 	}
 	
